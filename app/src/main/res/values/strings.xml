@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstGameTictacktoe</string>
+    <string name="reset">Play Again</string>
+</resources>
